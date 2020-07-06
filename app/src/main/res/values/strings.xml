@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="question_declaration">Πως θα χαρακτηρίζατε το επίπεδο της εξυπηρέτησης που λάβατε σήμερα?.</string>
+    <string name="question_declaration1">«Τι ήταν αυτό που σας
+ικανοποίησε ιδιαιτέρως?».</string>
+    <string name="question_declaration2">«Τι ήταν αυτό που σας
+δυσαρέστησε ιδιαιτέρως?».</string>
+    <string name="answer_declaration">ΑΡΙΣΤΟ.</string>
+    <string name="answer_declaration1">ΥΨΗΛΟ.</string>
+    <string name="answer_declaration2">ΜΕΤΡΙΟ.</string>
+    <string name="answer_declaration3">ΧΑΜΗΛΟ.</string>
+    <string name="answer_declaration4">1.Προθυμία για εξυπηρέτηση,ευγένεια προσωπικού.</string>
+    <string name="answer_declaration5">2.Προϊόντα,υπηρεσίες κατάλληλα για τις δικές σας ανάγκες.</string>
+    <string name="answer_declaration6">3.Ταχύτητα εξυπηρέτησης.</string>
+    <string name="answer_declaration7">4.Εικόνα καταστήματος.</string>
+
+
+    <string name="next_text">next</string>
+</resources>
